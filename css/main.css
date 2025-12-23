@@ -801,6 +801,7 @@ section,
   inset: 0;
   z-index: 2;
   border-radius: 0;
+  opacity: 0.6;
 }
 
 .hero .container {
